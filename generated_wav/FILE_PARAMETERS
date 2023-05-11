@@ -1,0 +1,7 @@
+FILE NAMES:
+
+ZeroMask: Masking done with setting all values to 0
+NoiseMask: Masking done with setting all values to random normal noise (mean=0.0, std=0.1)
+
+NoNorm: No scaling done on output of the model over masked values
+Norm: Scaling done on output of the model over masked values. Scaling factor determined by max(unmasked source and target) / max(masked)
