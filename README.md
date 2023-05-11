@@ -1,5 +1,7 @@
 # MusicSynthesis
 
+by [Bryton Foster](https://github.com/b-foster-yale), [Neal Ma](https://github.com/nmadev), and [Michael Ying](https://github.com/mying2002)
+
 ## Generated audio files
 
 Sample generated audio files (``.wav`` format) with different generating procedures can be found [here](https://github.com/nmadev/MusicSynthesis/tree/main/generated_wav). [``FILE PARAMETERS``](https://github.com/nmadev/MusicSynthesis/blob/main/generated_wav/FILE_PARAMETERS) contains the parameters used to create each file. Generated files and their corresponding original files are found [here](https://github.com/nmadev/MusicSynthesis/tree/main/generated_wav/merged_wav).
