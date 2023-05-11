@@ -1,1 +1,2 @@
 The original file, produced file (based on the first 300 samples) and, merged file (average waveform of the first two parts) are included for 6 examples.
+All of these output samples are produced with masking with zeros and normalization scaling.
