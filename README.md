@@ -2,7 +2,7 @@
 
 ## Generated audio files
 
-Sample generated audio files (``.wav`` format) can be found [here](https://github.com/nmadev/MusicSynthesis/tree/main/generated_wav). [``FILE PARAMETERS``](https://github.com/nmadev/MusicSynthesis/blob/main/generated_wav/FILE_PARAMETERS) contains the parameters used to create each file.
+Sample generated audio files (``.wav`` format) with different generating procedures can be found [here](https://github.com/nmadev/MusicSynthesis/tree/main/generated_wav). [``FILE PARAMETERS``](https://github.com/nmadev/MusicSynthesis/blob/main/generated_wav/FILE_PARAMETERS) contains the parameters used to create each file. Generated files and their corresponding original files are found [here](https://github.com/nmadev/MusicSynthesis/tree/main/generated_wav/merged_wav).
 
 ## Preprocess Utility
 
